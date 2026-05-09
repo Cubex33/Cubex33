@@ -50,5 +50,5 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Cubex33&style=flat-square"/>
-  ![GitHub followers](https://img.shields.io/github/followers/Cubex33?label=GitHub+Followers&style=flat-square&logo=github&labelColor=282c34&color=181717)
+  <img src="https://img.shields.io/github/followers/Cubex33?label=Followers&style=social" />
 </p>
