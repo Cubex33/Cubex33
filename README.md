@@ -45,7 +45,7 @@
 
 ### 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cubex33&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph]([https://github-readme-activity-graph.vercel.app/graph?username=Cubex33&theme=nightowl](https://github-activity-graph.luckylinux.dev/graph?username=Cubex33&theme=xcode))](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="left">
